@@ -1,2 +1,2 @@
-# Hackacthon-Visagio
-Modelos de Machine Learning desenvolvidos para o Hackathon da Visagio
+# hack_visagio
+Repositório para o hackathon Visagio 2020
